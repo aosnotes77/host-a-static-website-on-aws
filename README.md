@@ -1,3 +1,5 @@
+!(/Host-a-Static-Website-on-AWS.png)
+
 ---
 
 # Host a Static Website on AWS
